@@ -1,1 +1,2 @@
-wtf u mean 
+# wtf u mean
+print('hello')
