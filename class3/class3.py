@@ -19,7 +19,7 @@
 # password = input("請輸入密碼")
 # if password == "1234":
 #     print("welcome")
-# elif password=="5678":
+# elif password == "5678":
 #     print("hi ")
 # else:
 #     print("ur doomed")

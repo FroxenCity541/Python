@@ -18,7 +18,9 @@
 # EX:
 # 請輸入華氏溫度:60
 # 華氏溫度60.0F等於攝氏溫度15.555555555555555C
-
-F = float(input("溫度"))
-C = (F - 32) * 5 / 9
-print(f"華氏溫度{F}等於攝氏溫度{C}")
+# try:
+#     F = float(input("溫度"))
+#     C = (F - 32) * 5 / 9
+#     print(f"華氏溫度{F}等於攝氏溫度{C}")
+# except:
+#     print("nerd haha")s
